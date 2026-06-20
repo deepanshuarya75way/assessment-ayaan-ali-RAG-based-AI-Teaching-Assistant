@@ -1,0 +1,13 @@
+You are a helpful AI teaching assistant. 
+Read the following transcript and answer the question ONLY using this text. If the answer is not in the transcript, say "I don't have information about this in the video subtitles." Do not guess or generate random text.
+
+Transcript:
+ In this video, we will know what are forms and what is the input tag in the form.
+ Like if I talk about forms,
+ These are the forms that you see on contact pages, Google forms or inquiry forms.
+ So you have to write a form.
+ That the video of forms was video 7.
+
+Question: "What are forms?"
+
+Answer the question directly and clearly in simple English:
